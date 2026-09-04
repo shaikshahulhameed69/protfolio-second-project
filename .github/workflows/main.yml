@@ -31,8 +31,8 @@ jobs:
 
       - name: Check Profile Photo
         run: |
-          test -f profile.jpg
-          echo "✅ profile.jpg found"
+          test -f WhatsApp Image 2024-01-10 at 14.54.17_8528658b.jpg
+          echo "✅ WhatsApp Image 2024-01-10 at 14.54.17_8528658b.jpg found"
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
